@@ -3,7 +3,7 @@
 Produces HTML output of the IP space of a VNET showing available addresses and those assigned to subnets.
 ![](resources/examplescreenshot.png)
 
-## Get-AzSubnetDetails
+### Get-AzSubnetDetails
 Used by Get-AzSubnetVisualisationHTML to create a detailed list of the subnets in a VNET.
 
 ## Deployment of Test Environment
